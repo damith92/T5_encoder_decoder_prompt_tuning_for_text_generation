@@ -15,9 +15,9 @@ $ pip install -r requirements.txt
 
 ## Downloading Trained Models and Data
 
-To perform text generation and classification using the trained models produced, download the "trained_models.zip" archive file from the following link () and extract the content into the "trained_models" folder of the repo.
+To perform text generation and classification using the trained models produced, download the "trained_models.zip" archive file from the following link (https://drive.google.com/file/d/1Pq8FdZHXJ2zJYqX5IC5XSDVcQ1E0n5MB/view?usp=share_link) and extract the content into the "trained_models" folder of the repo.
 
-The data used from training the above moels can be accessed from the following link (). To experiment with the models further, download the "data.zip" archive file from the aforementioned link and extract the content into the "data" folder of the repo.
+The data used from training the above moels can be accessed from the following link (https://drive.google.com/file/d/1wnUErL_AoJLPAl09CYSVEEdVNMEHfuhw/view?usp=share_link). To experiment with the models further, download the "data.zip" archive file from the aforementioned link and extract the content into the "data" folder of the repo.
 
 
 ## Running the text generation demo
