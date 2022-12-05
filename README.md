@@ -1,6 +1,6 @@
 # T5_encoder_decoder_prompt_tuning_for_text_generation
 
-The code base for the model implementations of the research project "Controlled Text Generation using T5 based Encoder Decoder Soft Prompt Tuning and Analysis of the Utility of Generated Text in AI." can be found in this repository.
+The code base for the model implementations of the research project "Controlled Text Generation using T5 based Encoder Decoder Soft Prompt Tuning and Analysis of the Utility of Generated Text in AI" can be found in this repository.
 
 
 ## Required Packages
